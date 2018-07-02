@@ -1,0 +1,54 @@
+
+
+.container {
+  width: 213px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.calculator {
+  display: none;
+}
+
+.numbers {
+  width: 50px;
+  height: 50px;
+  background-color: orange;
+  color: black;
+  font-size: 15px;
+}
+
+.black {
+  width: 50px;
+  height: 50px;
+  background-color: black;
+  color: white;
+}
+
+.eqinput {
+  height: 40px;
+  width: 152px;
+  font-size: 30px;
+}
+
+.equ {
+  width: 50px;
+  height: 50px;
+}
+
+.C {
+  width: 50px;
+  height: 50px;
+  background-color: white;
+  color: black;
+}
+
+h1 {
+  text-align: center;
+  font-family: monospace;
+  font-size: 60px;
+  margin-top: 20px;
+  color: grey;
+}
